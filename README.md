@@ -1,6 +1,8 @@
 # linkedindata
 Exploring and Analyzing my own LinkedIn Data with Tableau
 
+Link to Tableau Public Profile: https://public.tableau.com/app/profile/raj.zaveri
+
 #### Project Overview
 I have always wondered what my LinkedIn account looked like from a bird’s eye view. With this project, I explored and analyzed my own LinkedIn account, particularly my connections, to learn more about my network and my activity on the platform over time. I went about this project by posing a few questions and using Tableau to create visualizations to answer them and gain insights and discoveries. 
 
